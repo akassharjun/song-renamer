@@ -1,6 +1,7 @@
 # song-renamer
 Simple python script to rename a songs's metadata using the Mutagen library.
 
+[![CodeFactor](https://www.codefactor.io/repository/github/akassharjun/song-renamer/badge)](https://www.codefactor.io/repository/github/akassharjun/song-renamer)
 
 ## Requirements
 
